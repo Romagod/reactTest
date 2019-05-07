@@ -1,0 +1,7 @@
+.menu__item {
+  margin-left: 20px; }
+  @media screen and (max-width: 480px) {
+    .menu__item {
+      display: none; } }
+
+/*# sourceMappingURL=menu.css.map */

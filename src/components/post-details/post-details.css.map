@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAS;EACP,aAAa,EAAE,IAAI",
+"sources": ["post-details.scss"],
+"names": [],
+"file": "post-details.css"
+}

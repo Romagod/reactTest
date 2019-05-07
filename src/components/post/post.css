@@ -1,0 +1,16 @@
+.post-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+  @media screen and (max-width: 730px) {
+    .post-wrapper {
+      justify-content: center; } }
+  @media screen and (max-width: 1080px) {
+    .post-wrapper {
+      justify-content: space-around; } }
+
+.card.post {
+  margin-bottom: 15px;
+  max-width: 350px; }
+
+/*# sourceMappingURL=post.css.map */
